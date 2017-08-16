@@ -1,0 +1,34 @@
+body{
+	background-color: #FFFFFF;
+}
+#header{
+	background-color: black;
+	text-align:center; 
+	color:white;
+}
+#menuLateral{
+	display: inline-block;	
+	font-family: monospace;
+	width: 200px;
+	color: black;
+}
+a{
+	text-decoration: none;
+}
+.cajaImg{
+	display: inline-block;
+}
+.footerW{
+	background-color: black;
+	text-align: right;	
+}
+.menu{
+	color:black;
+}
+.foot{
+	color: white;
+}
+.definicion{
+	text-align: center;
+	align-content: center;
+}
