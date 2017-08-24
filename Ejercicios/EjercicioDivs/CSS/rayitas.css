@@ -1,0 +1,36 @@
+.container{
+	height: 1000px;
+	width: 100%;
+	background-color: yellow;	
+}
+.float{
+	width: 12.5%;
+	height: 1000px;
+	float: left;	
+}
+.caja1{
+	background-color: white;	 
+}
+.caja2{
+	background-color: yellow;
+}
+.caja3{
+	background-color: #0BE2EF;
+}
+.caja4{
+	background-color: #12F124;
+}
+.caja5{
+	background-color: #E55DA3;
+}
+.caja6{
+	background-color: red;
+}
+.caja7{
+	background-color: #5112BB;
+}
+.caja8{
+	background-color: #040303;
+}
+
+
